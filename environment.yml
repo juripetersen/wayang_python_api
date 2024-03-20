@@ -1,0 +1,17 @@
+name: pywy
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.9
+  - pytest
+  - jpype1
+  - pyarrow
+  - pyspark
+  - pylint
+  - black
+  - numpy
+  - pip
+  - poetry
+  - packaging
